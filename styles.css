@@ -1,0 +1,22 @@
+h1 {
+   font-family: 'Indie Flower', cursive;
+   color: blue;
+}
+img {
+    height: 300px;
+}
+body {
+     background-image: linear-gradient( to bottom left, blue 5% ,red 60%);
+}
+p {
+    color: blue;
+}
+li {
+    color: blue;
+}
+p {
+    font-family: 'Permanent Marker', cursive;
+}
+li {
+    font-family: 'Srisakdi', cursive;
+}
